@@ -50,19 +50,6 @@ I'm a final year bachelor's student in engineering at Ecole Centrale Casablanca,
 
 <div align="center">
 
-### GitHub stats
-
-<img src="https://github-readme-stats-nine-rho.vercel.app/api?username=LaryConseiga&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=be185d&icon_color=6d28d9&text_color=c9d1d9" width="48%" />
-<img src="https://github-readme-stats-nine-rho.vercel.app/api/top-langs/?username=LaryConseiga&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=be185d&text_color=c9d1d9" width="40%" />
-
-<img src="https://streak-stats.demolab.com/?user=LaryConseiga&theme=dark&hide_border=true&background=0d1117&ring=6d28d9&fire=be185d&currStreakLabel=be185d" width="60%" />
-
-</div>
-
-<br>
-
-<div align="center">
-
 ### Let's connect
 
 <a href="https://portfolio.betech.live/">
