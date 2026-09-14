@@ -8,7 +8,7 @@
 
 I'm a final year bachelor's student in engineering at Ecole Centrale Casablanca, building a strong foundation in artificial intelligence and data science through hands on projects. I'm currently looking for a research internship in an AI lab or a data/AI consulting role, where I can apply machine learning to real world problems.
 
-### What I'm building
+### What are my current projects
 
 * **Learning by Building**: a blog documenting my deep learning journey, what I read, what I code, what works and what breaks, with a live demo for each article.
 * **TOEFL Prep Assistant**: a PWA for TOEFL iBT preparation (Reading, Listening, Writing, Speaking), with level diagnostics, personalized study plans, AI generated exercises in the official format, detailed corrections, timed mock exams, progress tracking and push reminders.
@@ -43,6 +43,21 @@ I'm a final year bachelor's student in engineering at Ecole Centrale Casablanca,
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
 <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+
+<br><br>
+
+**Artificial Intelligence**
+
+<img src="https://img.shields.io/badge/Machine%20Learning-1e1b4b?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Deep%20Learning-1e1b4b?style=for-the-badge" />
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/LLMs-6d28d9?style=for-the-badge" />
+<img src="https://img.shields.io/badge/RAG-6d28d9?style=for-the-badge" />
+<br>
+<img src="https://img.shields.io/badge/AI%20Agents-6d28d9?style=for-the-badge" />
+<img src="https://img.shields.io/badge/LangChain%2FLangGraph-be185d?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Vector%20Databases-be185d?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Prompt%20Engineering-be185d?style=for-the-badge" />
 
 </div>
 
