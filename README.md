@@ -19,16 +19,30 @@ I'm a final year bachelor's student in engineering at Ecole Centrale Casablanca,
 
 ### Tech stack
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+**Development & Integration**
+
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 <br>
+<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/REST%20APIs-025E8C?style=for-the-badge" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+
+<br><br>
+
+**Data & Machine Learning**
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
 <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 
 </div>
 
@@ -38,8 +52,8 @@ I'm a final year bachelor's student in engineering at Ecole Centrale Casablanca,
 
 ### GitHub stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=LaryConseiga&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=be185d&icon_color=6d28d9&text_color=c9d1d9" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaryConseiga&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=be185d&text_color=c9d1d9" width="40%" />
+<img src="https://github-readme-stats-nine-rho.vercel.app/api?username=LaryConseiga&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=be185d&icon_color=6d28d9&text_color=c9d1d9" width="48%" />
+<img src="https://github-readme-stats-nine-rho.vercel.app/api/top-langs/?username=LaryConseiga&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=be185d&text_color=c9d1d9" width="40%" />
 
 <img src="https://streak-stats.demolab.com/?user=LaryConseiga&theme=dark&hide_border=true&background=0d1117&ring=6d28d9&fire=be185d&currStreakLabel=be185d" width="60%" />
 
